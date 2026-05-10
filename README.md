@@ -1,4 +1,3 @@
-# PRIME-py-Dataset_Creation
 # PRIME-Py: Data Collection and Feature Extraction Pipeline
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20110499.svg)](https://doi.org/10.5281/zenodo.20110499)
