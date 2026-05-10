@@ -9,11 +9,6 @@ dataset of 1,997,535 Python functions extracted from 2,797 open-source GitHub
 repositories.
 
 > **Dataset:** [https://doi.org/10.5281/zenodo.20110499](https://doi.org/10.5281/zenodo.20110499)
->
-> **Related article:** Alehaidib R, Ghoneim A, Alrashoud M. 2026.
-> Large-Scale Empirical Study of Code Smell and Anti-Pattern Detection
-> in Python Open-Source Software. *PeerJ Computer Science.*
-> DOI: [to be added on acceptance]
 
 ---
 
