@@ -4,10 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
 
-This repository contains the complete data collection and feature extraction![Uploading image.png…]()
-![Uploading image.png…]()
-
-pipeline used to construct the **PRIME-Py** dataset — a large-scale multimodal
+This repository contains the complete data collection and feature extraction pipeline used to construct the **PRIME-Py** dataset — a large-scale multimodal
 dataset of 1,997,535 Python functions extracted from 2,797 open-source GitHub
 repositories.
 
